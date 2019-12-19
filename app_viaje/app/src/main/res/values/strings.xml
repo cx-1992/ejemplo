@@ -2,4 +2,6 @@
     <string name="app_name">app_viaje</string>
     <string name="title_activity_lista_restaurantes">ListaRestaurantesActivity</string>
     <string name="title_activity_lista_hoteles">ListaHotelesActivity</string>
+    <string name="title_activity_lista_actividades">ListaActividadesActivity</string>
+    <string name="title_activity_restaurantes">RestaurantesActivity</string>
 </resources>
